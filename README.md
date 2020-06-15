@@ -1,4 +1,4 @@
-# Following are some UI sample of my work
+# UI sample from my work
 
 
 ## Screenshots
